@@ -4,6 +4,13 @@
 body{
 	background-color: fuchsia;
 	}
+	p {
+		font-family: raleway;
+		color: white;
+		position: relative;
+		left: 460px;
+
+	}
 
 
 h1 {
