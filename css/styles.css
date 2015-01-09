@@ -4,13 +4,19 @@
 body{
 	background-color: fuchsia;
 	}
+
 	p {
 		font-family: raleway;
+		font-weight: bold;
 		color: white;
+		width: 500px;
 		position: relative;
 		left: 460px;
-
+		text-align: justify;
 	}
+	
+
+	
 
 
 h1 {
