@@ -1,7 +1,29 @@
 /* Your Website Styles */
 
 
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+body{
+	background-color: fuchsia;
+	}
+
+
+h1 {
+	font-family: gabriola;
+	font-size: 2em;
+	text-align: center;
+	border-bottom: solid white;
+
+	
+}
+
+h2 {
+	font-family: felix titling;
+	text-align: center;
+}
+
+img {
+	position: relative;
+	left: 360px;
+	border: solid white;
+	width: 600px;
+	height: 750px;
 }
