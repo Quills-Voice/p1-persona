@@ -1,6 +1,7 @@
 /* Your Website Styles */
 
 
+
 body{
 	background-color: fuchsia;
 	}
@@ -11,32 +12,24 @@ body{
 		color: white;
 		width: 500px;
 		position: relative;
-		left: 460px;
-		text-align: justify;
-	}
-	
-
-	
+		left: 500px;
+		text-align: justify;}
 
 
 h1 {
 	font-family: gabriola;
-	font-size: 2em;
+	font-size: 3em;
+	letter-spacing: 4px;
 	text-align: center;
-	border-bottom: solid white;
-
-	
-}
+	border-bottom: solid white;}
 
 h2 {
 	font-family: felix titling;
-	text-align: center;
-}
+	text-align: center;}
 
 img {
 	position: relative;
 	left: 460px;
 	border: solid white;
 	width: 600px;
-	height: 750px;
-}
+	height: 750px;}
